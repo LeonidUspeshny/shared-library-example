@@ -225,4 +225,4 @@ node {
         mvn.execute(constants.MAVEN);
     }
 }
-```
+```# shared-library-example
